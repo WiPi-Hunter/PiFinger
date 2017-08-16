@@ -33,7 +33,6 @@ we too can catch them with the default settings in their software and hardware."
 * Manufacturer's MAC address information
 * Default HTTP Port (1471)
 * Default hostname information for wifi-pineapple
-* Find connected wireless network and  statistic
 
 **Previous networks**
 
