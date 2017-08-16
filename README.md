@@ -19,9 +19,16 @@
 
 The purpose of this project is to determine whether the network we are connected for is opened by Wifi- Pineapple. We are analyzing the wireless network you are connected to and we give you a security score.
 
+
 ### Used Techinuques
 
 **WiFi-Pineapple Network Detection Techniques**
+
+```
+A Chinese proverb says:
+"If attackers are accessing systems using default settings, 
+we too can catch them with the default settings in their software and hardware."
+```
 
 * Manufacturer's MAC address information
 * Default HTTP Port (1471)
