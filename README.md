@@ -50,7 +50,7 @@ we too can catch them with the default settings in their software and hardware."
 * Windows version
 * Full automatic analysis
 
-### Usage
+### Usage (for Linux)
 
 #### Requirements
 
@@ -72,7 +72,7 @@ Run the program with following command:
 Run:
 
 ```python
-cd PiFinger
+cd PiFinger/Linux
 python pifinger.py
 ```
 
