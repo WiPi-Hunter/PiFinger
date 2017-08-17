@@ -17,7 +17,7 @@
 
 ### About Project
 
-The purpose of this project is to determine whether the network we are connected for is opened by Wifi- Pineapple. In addition, we analyze wireless networks you have previously connected and give you a security score.
+The purpose of this project is to determine whether the network we are connected for is opened by Wifi- Pineapple. In addition, the tool analyzes the wireless networks you have previously connected and gives you a security score.
 
 ### Features
 
