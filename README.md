@@ -24,7 +24,6 @@ The purpose of this project is to determine whether the network we are connected
 * Is this network opened by pineapple?
 * Have we been connected to insecure networks before?
 * Logging  (
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `HTTP Port Screenshot`
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Wireless Security Score`)
 
 ### Used Techinuques
