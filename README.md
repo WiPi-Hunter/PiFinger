@@ -76,7 +76,7 @@ python pifinger.py
 <img src="images/interface.png" width="45%"></img>
 <img src="images/log.png" width="45%"></img>
 </p>
----------------------------------------------------------------------------
+
 <p align="center">
 <img src="images/pifinger.png" width="45%"></img>
 <img src="images/notpi.png" width="45%"></img>
