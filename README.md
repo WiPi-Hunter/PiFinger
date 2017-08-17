@@ -53,7 +53,7 @@ we too can catch them with the default settings in their software and hardware."
 
 #### Requirements
 
-* **Modules:** scapy, time, termcolor, sys, commands, interfaces, os
+* **Modules:** time, termcolor, sys, commands, interfaces, os
 * **OS:** Kali, Ubuntu (Kali was also tested)
 
 Download pifinger:
