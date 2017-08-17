@@ -45,6 +45,11 @@ we too can catch them with the default settings in their software and hardware."
 
 * Analyzes the wireless networks you have previously connected
 
+### Features to add
+
+* Windows version
+* Full automatic analysis
+
 ### Usage
 
 #### Requirements
