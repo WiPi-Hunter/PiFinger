@@ -52,8 +52,39 @@ we too can catch them with the default settings in their software and hardware."
 * **Modules:** scapy, time, termcolor, sys
 * **OS:** Kali, Ubuntu
 
+Download pisavar:
+
+`git clone https://github.com/besimaltnok/PiFinger.git`
+
+Install Python librarie(s):
+
+`pip install termcolor`
+
+It's done!
+
+Run the program with following command: 
+
+Run:
+
+```python
+cd PiFinger
+python pifinger.py
+```
+
 ### Screenshots
+<p align="center">
+<img src="images/interface.png" width="45%"></img>
+<img src="images/log.png" width="45%"></img>
+</p>
+---------------------------------------------------------------------------
 <p align="center">
 <img src="images/pifinger.png" width="45%"></img>
 <img src="images/notpi.png" width="45%"></img>
 </p>
+
+### Demo Video
+
+- Video
+
+### Authors
+This project is coded by Besim ALTINOK
