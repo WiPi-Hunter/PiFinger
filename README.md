@@ -54,16 +54,16 @@ we too can catch them with the default settings in their software and hardware."
 
 #### Requirements
 
-* **Modules:** scapy, time, termcolor, sys
-* **OS:** Kali, Ubuntu
+* **Modules:** scapy, time, termcolor, sys, commands, interfaces, os
+* **OS:** Kali, Ubuntu (Kali was also tested)
 
-Download pisavar:
+Download pifinger:
 
 `git clone https://github.com/besimaltnok/PiFinger.git`
 
 Install Python librarie(s):
 
-`pip install termcolor`
+`pip install -r requirements.txt`
 
 It's done!
 
@@ -88,8 +88,7 @@ python pifinger.py
 </p>
 
 ### Demo Video
-
-- Video
+- Will be added
 
 ### Authors
 This project is coded by Besim ALTINOK
