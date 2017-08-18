@@ -56,6 +56,7 @@ we too can catch them with the default settings in their software and hardware."
 
 * **Modules:** time, termcolor, sys, commands, interfaces, os
 * **OS:** Kali, Ubuntu (Kali was also tested)
+* **Python Version:** 2.x
 
 Download pifinger:
 
