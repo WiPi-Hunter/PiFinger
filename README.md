@@ -22,7 +22,7 @@ The purpose of this project is to determine whether the network we are connected
 ### Features
 
 * Is this network opened by pineapple?
-* Have we been connected to insecure networks before?
+* Have you been connected to insecure networks before?
 * Logging  (
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Wireless Security Score`)
 (time, mac, ssid, score, is_pineapple)
