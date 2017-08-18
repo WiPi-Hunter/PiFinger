@@ -49,13 +49,14 @@ we too can catch them with the default settings in their software and hardware."
 
 * Windows version
 * Full automatic analysis
+* New wifi_score and pineapple analysis techniques
 
 ### Usage (for Linux)
 
 #### Requirements
 
 * **Modules:** time, termcolor, sys, commands, interfaces, os
-* **OS:** Kali, Ubuntu (Kali was also tested)
+* **OS:** Kali, Ubuntu
 * **Python Version:** 2.x
 
 Download pifinger:
