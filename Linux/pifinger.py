@@ -56,8 +56,7 @@ def default_hostname(gateway):
     hostname = commands.getoutput("nslookup " + gateway +" | grep 'name = ' | awk '{print $4}'")
     if "Pineapple.lan." in hostname:
         return 1
-    else:
-		return 0
+    return 0
 
 def manufacturer_mac(manufmac, interface):
     output = commands.getoutput("iwconfig " + interface + " | awk '/Access Point:/ {print $6}'")
@@ -65,8 +64,7 @@ def manufacturer_mac(manufmac, interface):
     for i in manufmac:
 	   if i == output[0:8]:
 		   return 1
-	   else:
-		   return 0
+    return 0
 
 
 def root_check():
