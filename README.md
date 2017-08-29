@@ -89,8 +89,6 @@ python pifinger.py
 <img src="images/notpi.png" width="45%"></img>
 </p>
 
-### Demo Video
-- Will be added
 
 ### Authors
 This project is coded by Besim ALTINOK
