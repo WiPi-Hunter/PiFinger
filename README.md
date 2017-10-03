@@ -15,6 +15,11 @@
 
 ```
 
+<p align="center">
+<img src="https://img.shields.io/badge/Python-2-yellow.svg"></a> <img src="https://img.shields.io/badge/license-GPLv3-red.svg">
+<img src="https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg" href="http://www.blackhat.com/eu-17/arsenal/schedule/#wipi-hunter---wifi-pineapple-activities-detection-9091" target="_blank">
+</p>
+
 ### About Project
 
 The purpose of this project is to determine whether the network we are connected for is opened by Wifi- Pineapple. In addition, the tool analyzes the wireless networks you have previously connected and gives you a security score.
